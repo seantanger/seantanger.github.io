@@ -7,7 +7,7 @@ export const profile = {
     "Hi, I'm Sean, an AI Engineer at Precision Resource. I studied math at the University of Waterloo, with a focus on statistics and computer science.",
     // "Outside of work you'll find me on the golf course or tweaking my fantasy basketball and football lineups.",
   ],
-  email: 'sn.tang15@gmail.com',
+  email: 'sean.tang.contact@gmail.com',
   links: [
     { label: 'GitHub', href: 'https://github.com/seantanger' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/st15' },
@@ -48,7 +48,7 @@ export const experience = [
   { role: 'AI Engineer', org: 'Precision Resource', when: 'Present', text: 'Build and deploy full-stack LLM applications that automate business workflows in a manufacturing business environment (fineblanking).' },
   { role: "Master's, Computational Mathematics", org: 'University of Waterloo', when: '2024 - 2025', text: '' },
   { role: 'Co-ops', org: 'ENVenture, BMO, Home Hardware, Stoneridge Insurance', when: 'Undergrad', text: 'Data science and software engineering.' },
-  { role: 'Math / Business double degree', org: 'University of Waterloo and Wilfrid Laurier University', when: '2019 - 2024', text: 'Majored in statistics and computing.' },
+  { role: 'Math / Business double degree', org: 'University of Waterloo and Wilfrid Laurier University', when: '2019 - 2024', text: 'Majored in statistics and computing. Concentration in finance' },
 ]
 
 export const posts = [
