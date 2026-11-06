@@ -45,8 +45,8 @@ export const projects = [
   {
     title: 'NBA player-prop models',
     context: 'In progress, results as of Nov 2, 2026',
-    text: "Testing whether NBA player-prop betting markets can be beaten with a statistical model, done honestly: leak-free features, bets graded only at prices that were actually offered, and a holdout set aside before seeing any results. LightGBM predicts the mean and spread of each stat. No proven edge yet. A rule that returned +6.1% on 6,424 development bets lost 1.8% on its small holdout, and live paper trading is at +2.2% over 1,027 picks, with a confidence interval that still includes zero.",
-    tags: ['Python', 'LightGBM', 'Backtesting', 'Sports analytics'],
+    text: "Testing whether NBA player-prop betting markets can be beaten with a statistical model, done honestly: leak-free features, bets graded only at prices that were actually offered, and a holdout set aside before seeing any results. LightGBM predicts the mean and spread of each stat. Each day a Claude Code skill has Claude search the latest injury and lineup news and keep or veto every pick. No proven edge yet. A rule that returned +6.1% on 6,424 development bets lost 1.8% on its small holdout, and live paper trading is at +2.2% over 1,027 picks, with a confidence interval that still includes zero. So far the vetoed picks have done better than the kept ones.",
+    tags: ['Python', 'LightGBM', 'Backtesting', 'Claude Code', 'Sports analytics'],
     href: 'https://github.com/seantanger/nba-props-research',
   },
 ]
