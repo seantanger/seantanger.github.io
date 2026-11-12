@@ -38,7 +38,7 @@ export const projects = [
   },
   {
     title: 'Vertical jump coach',
-    context: 'In progress, WatSPEED Agentic AI course project',
+    context: 'WatSPEED Agentic AI course project',
     text: "An AI coach for vertical jump training, built on John Evans' THP video transcripts. A planner agent builds and adjusts a six-month periodized program from the athlete's feedback, and a coach agent answers questions with cited sources through RAG. It remembers each athlete's stats, injuries and progress.",
     tags: ['LangGraph', 'RAG', 'MCP', 'Multi-agent'],
     href: 'https://github.com/seantanger/thp-jump-coach-agent',
